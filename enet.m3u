@@ -34,18 +34,13 @@ https://somoy.jaagobd.com:444/somoy/boishakhitv-org.stream/live-orgin/boishakhit
 
 #EXTINF:-1 ,Channel 24
 https://somoy.jaagobd.com:444/somoy/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 ,Channel 9 HD
-https://somoy.jaagobd.com:444/somoy/channel9hd.stream/live-orgin/channel9hd.stream/chunks.m3u8
+
 #EXTINF:-1 ,Channel i
 https://somoy.jaagobd.com:444/somoy/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 ,Channel S UK
 https://somoy.jaagobd.com:444/somoy/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
 
-
-
-#EXTINF:-1 ,Deepto TV
-https://somoy.jaagobd.com:444/somoy/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 ,Deshe Bideshe
 https://somoy.jaagobd.com:444/somoy/deshebideshe.stream/live-orgin/deshebideshe.stream/chunks.m3u8
 
@@ -78,12 +73,9 @@ https://somoy.jaagobd.com:444/somoy/varendratv.stream/live-orgin/varendratv.stre
 
 
 
-#EXTINF:-1 ,ATN News
-https://somoy.jaagobd.com:444/somoy/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8
+
 #EXTINF:-1 ,DBC News
 https://somoy.jaagobd.com:444/somoy/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 ,DW News
-https://somoy.jaagobd.com:444/somoy/dwnews.stream/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 ,Independent TV
 https://somoy.jaagobd.com:444/somoy/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,Jamuna TV
@@ -98,12 +90,15 @@ https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/s
 https://somoy.jaagobd.com:444/somoy/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha HD
-http://flussonicusa.bdcabletv.com:80/live/PCPSCEDAQt/ou0mthW/857.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD
-http://flussonicusa.bdcabletv.com:80/live/PCPSCEDAQt/ou0mthW/856.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" , Colors Bangla HD
-http://flussonicusa.bdcabletv.com:80/live/PCPSCEDAQt/ou0mthW/863.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D5KeTEv.png" group-title="Indian Bangla", Sony Aath HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
+http://cablevission.ddns.net/PCPSCEDAQt/ou0mthW/857
+#EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
+http://str24.l9574.com:80/615.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
+http://str24.l9574.com:80/616.stream/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QD5t6Bn.png" group-title="FCN-BKUP", Star Bharat HD
