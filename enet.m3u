@@ -7,15 +7,12 @@ https://somoy.jaagobd.com:444/somoy/btvbd-office-sg.stream/live-orgin/btvbd-offi
 #EXTINF:-1 ,Songsad TV
 https://somoy.jaagobd.com:444/somoy/songsodtv-world.stream/live-orgin/songsodtv-world.stream/chunks.m3u8
 
-
 #EXTINF:-1 ,Alpona TV
 https://somoy.jaagobd.com:444/somoy/alponatv.stream/live-orgin/alponatv.stream/chunks.m3u8
 #EXTINF:-1 ,Ananda TV
 https://somoy.jaagobd.com:444/somoy/anandatv.stream/live-orgin/anandatv.stream/chunks.m3u8
-
 #EXTINF:-1 ,ATN Bangla
 https://somoy.jaagobd.com:444/somoy/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
-
 
 #EXTINF:-1 ,Bangla 21 TV
 https://somoy.jaagobd.com:444/somoy/bangla21tv000889956-sg.stream/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
@@ -30,31 +27,14 @@ https://somoy.jaagobd.com:444/somoy/bijoy00.stream/live-orgin/bijoy00.stream/chu
 https://somoy.jaagobd.com:444/somoy/biswabanglatv.stream/live-orgin/biswabanglatv.stream/chunks.m3u8
 #EXTINF:-1 ,Boishakhi TV
 https://somoy.jaagobd.com:444/somoy/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8
-
-
 #EXTINF:-1 ,Channel 24
 https://somoy.jaagobd.com:444/somoy/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-
 #EXTINF:-1 ,Channel i
 https://somoy.jaagobd.com:444/somoy/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
-
-#EXTINF:-1 ,Channel S UK
+#EXTINF:-1 ,Channel S
 https://somoy.jaagobd.com:444/somoy/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
-
 #EXTINF:-1 ,Deshe Bideshe
 https://somoy.jaagobd.com:444/somoy/deshebideshe.stream/live-orgin/deshebideshe.stream/chunks.m3u8
-
-
-
-
-#EXTINF:-1 ,ATN Music
-https://somoy.jaagobd.com:444/somoy/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 ,GaanBangla TV
-https://somoy.jaagobd.com:444/somoy/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1 ,Music CIPL
-https://somoy.jaagobd.com:444/somoy/musiccipl.stream/live-orgin/musiccipl.stream/chunks.m3u8
-
-
 
 #EXTINF:-1 ,Global TV Bangladesh
 https://somoy.jaagobd.com:444/somoy/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
@@ -71,9 +51,6 @@ https://somoy.jaagobd.com:444/somoy/rtv-sg.stream/live-orgin/rtv-sg.stream/chunk
 #EXTINF:-1 ,Varendra TV
 https://somoy.jaagobd.com:444/somoy/varendratv.stream/live-orgin/varendratv.stream/chunks.m3u8
 
-
-
-
 #EXTINF:-1 ,DBC News
 https://somoy.jaagobd.com:444/somoy/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 ,Independent TV
@@ -84,10 +61,15 @@ https://somoy.jaagobd.com:444/somoy/jamuna-test-sample-ok.stream/live-orgin/jamu
 https://somoy.jaagobd.com:444/somoy/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 ,Somoy News
 https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-
-
 #EXTINF:-1 ,ATN Islamic TV
 https://somoy.jaagobd.com:444/somoy/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:-1 ,ATN Music
+https://somoy.jaagobd.com:444/somoy/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 ,GaanBangla TV
+https://somoy.jaagobd.com:444/somoy/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png", group-title="MUSIC", Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
@@ -106,6 +88,8 @@ http://jo123.biz/jweb/m3u8.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SY46rYQ.png" group-title="Indian Bangla",Zee Bangla Cinema HD
 http://jo123.biz/jweb/m3u8.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
+http://103.55.144.46/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x2qwIpL.png" group-title="Hindi",Sony HD
 http://jo123.biz/jweb/m3u8.php?c=Sony_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJc3ZU3.png" group-title="Hindi",Sony Sab HD
@@ -119,47 +103,8 @@ http://jo123.biz/jweb/m3u8.php?c=Sony_SAB&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/20NLt9o.jpg" group-title="Hindi", Sony Pal
 http://jo123.biz/jweb/m3u8.php?c=Sony_Pal&q=800&e=junk.m3u8
 
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic (Hindi)
-http://jo123.biz/jweb/m3u8.php?c=sonic_Hindi&q=800&e=junk.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic (Bangla)
-http://jo123.biz/jweb/m3u8.php?c=Sonic_Bangla&q=800&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nickelodeon (Hindi)
-http://jo123.biz/jweb/m3u8.php?c=Nick_Hindi&q=800&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nickelodeon (Bangla)
-http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&q=800&e=junk.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay
-http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=800&e=junk.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network Hindi
-http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
-http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=800&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/QOye6lA.png" group-title="Kids", Discovery HD
-http://jo123.biz/jweb/m3u8.php?c=Discovery_Kids_2&q=800&e=junk.m3u8
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Ws3p8ld.png",Sony Six HD
-http://jo123.biz/jweb/m3u8.php?c=Six_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/WZbjRM3.png",Sony Ten 1 HD
-http://jo123.biz/jweb/m3u8.php?c=Ten_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/p5DzCDr.png",Sony Ten 2 HD
-http://jo123.biz/jweb/m3u8.php?c=Ten2_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/rU424bI.png",Sony Ten 3 HD
-http://jo123.biz/jweb/m3u8.php?c=Ten3_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png", Euro Sport
-http://jo123.biz/jweb/m3u8.php?c=Dsports_HD&q=1200&e=junk.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movie", Star Gold HD
+http://103.55.144.46/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" group-title="Hindi Movie",&Pictures HD
 http://jo123.biz/jweb/m3u8.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi Movie",Sony Max HD
@@ -177,31 +122,63 @@ http://jo123.biz/jweb/m3u8.php?c=Zee_Action&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dGzNffT/uoOJjLl.png" group-title="Hindi Movie",Zee Anmol Cinema
 http://jo123.biz/jweb/m3u8.php?c=Zee_Anmol_Cinema&q=800&e=junk.m3u8
 
-#EXTINF:-1 group-title="Infotainment & English Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P1mWWDKQSe124AaS_jgRf3t_OcDfGi6WfA&usqp=CAU", Discovery (Bangla)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Live Sports", T Sports HD
+http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
+http://103.55.144.46/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 HD
+http://103.55.144.46/hls/starsports2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDpb03C.png" group-title="Sports", Star Sports Select 2 HD
+http://103.55.144.46/hls/select2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ws3p8ld.png" group-title="Sports",Sony Six HD
+http://jo123.biz/jweb/m3u8.php?c=Six_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WZbjRM3.png" group-title="Sports",Sony Ten 1 HD
+http://jo123.biz/jweb/m3u8.php?c=Ten_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p5DzCDr.png" group-title="Sports",Sony Ten 2 HD
+http://jo123.biz/jweb/m3u8.php?c=Ten2_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rU424bI.png" group-title="Sports",Sony Ten 3 HD
+http://jo123.biz/jweb/m3u8.php?c=Ten3_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports" group-title="Sports", Euro Sport
+http://jo123.biz/jweb/m3u8.php?c=Dsports_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0UushKa.png" group-title="Cartoon",Sonic (Hindi)
+http://jo123.biz/jweb/m3u8.php?c=sonic_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0UushKa.png" group-title="Cartoon",Sonic (Bangla)
+http://jo123.biz/jweb/m3u8.php?c=Sonic_Bangla&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png"  group-title="Cartoon", Nickelodeon (Hindi)
+http://jo123.biz/jweb/m3u8.php?c=Nick_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nickelodeon (Bangla)
+http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XNnI0ie.jpg" group-title="Cartoon",Sony Yay
+http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H3UGkci.png" group-title="Cartoon",Cartoon Network Hindi
+http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKSpv5k.png" group-title="Cartoon",POGO SD
+http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ad5lU8Z.png" group-title="Cartoon" ,DK
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Kids_2&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery HD (Bangla)
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=1200&e=junk.m3u8
-
-#EXTINF:-1 group-title="Infotainment & English Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P1mWWDKQSe124AaS_jgRf3t_OcDfGi6WfA&usqp=CAU", Discovery HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QOye6lA.png" group-title="Documentary", Discovery HD (Hindi)
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QOye6lA.png" group-title="Documentary", Discovery HD
 http://jo123.biz/jweb/m3u8.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
-
-#EXTINF:-1 group-title="Infotainment & English Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgend6S1M4oFPQUmOkPARqKn2wsypoaRzg8Q&usqp=CAU", Sony Pix HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Documentary", Sony Pix HD
 http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 group-title="Infotainment & English Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBqGbPg3uEIJC67ha_bngemPDEiP-L4OzsQ&usqp=CAU", Animal Planet (Hindi)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD (Hindi)
 http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
-
-#EXTINF:-1 group-title="Infotainment & English Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBqGbPg3uEIJC67ha_bngemPDEiP-L4OzsQ&usqp=CAU", Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
 
-#EXTINF:-1 group-title="Infotainment & English Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P1mWWDKQSe124AaS_jgRf3t_OcDfGi6WfA&usqp=CAU", Discovery (Hindi)
-http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=1200&e=junk.m3u8
-
-#EXTINF:-1 group-title="Indian Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-jvMxdgcXmt9YzBj86UKyJ2yXTohMc0NmPQ&usqp=CAU",MTV India
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7RjnNH.png", group-title="MUSIC", MTV India
 http://jo123.biz/jweb/m3u8.php?c=MTV&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Indian Music & Movie Channels" tvg-logo="https://i.imgur.com/m7RjnNH.png", group-title="MUSIC",  MTV Beats HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7RjnNH.png", group-title="MUSIC", MTV Beats HD
 http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png", group-title="MUSIC", Sangeet Bangla
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jLD3N3b.png" group-title="FCN-MUSIC", SHOWBOX
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
@@ -220,8 +197,6 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:-1 group-title="MUSiC" tvg-logo="https://imgur.com/KybFgbZ.png",Pop Pataka Music
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
-
-
 
  #EXTINF:-1 tvg-logo="https://imgur.com/QssgV7D.png",THE END
 
